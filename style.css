@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+#Home {
+    background-image: linear-gradient(red, yellow);
+}
+
+#Details {
+    background-image: linear-gradient(pink, lightgreen, aqua);
+}
+
+
+
+#Contacts {
+    background-image: linear-gradient(purple, pink, orange);
+}
+
+#Videos {
+    background-image: linear-gradient(darkblue, lightblue, yellow);
+}
+
+h1 {
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#container {background-image: linear-gradient(#DD5E89,#F7BB97 );}
